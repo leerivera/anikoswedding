@@ -15,13 +15,13 @@ function Cards() {
                       
               
                       // label='Adventure'
-                      path='/services'
+                      path='/cardone'
                    />
                   <CardItem
                       src='images/img-2.jpg'
               
                         // label='Luxury'
-                      path='/services'
+                      path='/cardtwo'
                     />
 
                   <CardItem

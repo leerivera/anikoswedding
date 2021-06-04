@@ -7,9 +7,13 @@ export default function Details() {
    <h1>DETAILS</h1>
    <h2>RSVP</h2>
     <br/>
-  <p>We kindly request that you RSVP by 5 July 2021. Click <a href="https://nikos082021.surveysparrow.com/s/Akosua-and-Nicholas-Wedding-RSVP/tt-7aa0a2">HERE</a> to RSVP.</p>
+  <p>We kindly request that you RSVP by 5 July 2021.</p>
+   <br/>
+    <p> Click <a href="https://nikos082021.surveysparrow.com/s/Akosua-and-Nicholas-Wedding-RSVP/tt-7aa0a2">HERE</a> to RSVP.</p>
+    <br/>
     <br/>
   <h2>CEREMONY AND RECEPTION</h2>
+    <br/>
     <br/>
   <p>The ceremony and reception will take place on Saturday, August 21, </p>
     <br/>
@@ -19,7 +23,10 @@ export default function Details() {
     <br/>
   <p>The order of events is as follows:</p>
     <br/>
+    <br/>
   <ul>
+    <br/>
+
     <li>5:30 PM	Ceremony</li>
     <li>6:00 PM	Cocktail Hour</li>
     <li>7:15 PM	Introductions</li>
@@ -27,7 +34,10 @@ export default function Details() {
     <li>8:00 PM	Open Photobooth</li>
     <li>8:30 PM	Open Dancing</li>
     <li>11:00 PM Formal Exit</li>
+    
+    <br/>
   </ul>
+    <br/>
     <br/>
 
   <h2>DRESS CODE</h2>

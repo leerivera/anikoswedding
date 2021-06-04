@@ -3,7 +3,9 @@ import Navbar from './components/Navbar';
 import './App.css';
 import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import Services from './components/pages/Services';
+import Cardone from './components/pages/Cardone';
+import Cardtwo from './components/pages/Cardtwo';
+import Cardthree from "components/pages/Cardthree"
 import Details from './components/pages/Details';
 import SignUp from './components/pages/SignUp';
 import Cards from './components/pages/Cards'
@@ -15,7 +17,9 @@ function App() {
         <Navbar />
         <Switch>
           <Route path='/' exact component={Home} />
-          <Route path='/services' component={Services} />
+          <Route path='/cardone' component={Cardone} />
+          <Route path='/cardtwo' component={Cardtwo} />
+          <Route path='/cardthree' component={Cardthree}/>
           <Route path='/details' component={Details} />
           <Route path='/cards' component={Cards} />
         </Switch>

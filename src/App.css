@@ -6,7 +6,9 @@
 }
 
 .home,
-.services,
+.cardone,
+.cardtwo,
+.cardthree
 .details,
 .sign-up {
   display: flex;
@@ -26,7 +28,16 @@
    align-items: center;
 }
 
-.services {
+.cardone {
+  background-image: url('/images/img-9.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.cardtwo {
   background-image: url('/images/img-2.jpg');
   background-position: center;
   background-size: cover;
