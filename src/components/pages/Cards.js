@@ -64,7 +64,7 @@ function Cards() {
                       text="Akosua and Nicholas, August 21, 2021 Bristol Manor Golf Club"
               
                         // label='Luxury'
-                      path='/services'
+                      path='/cardsix'
                     />
 
                     
