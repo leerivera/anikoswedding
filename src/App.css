@@ -9,6 +9,7 @@
 .cardone,
 .cardtwo,
 .cardthree,
+.cardfour,
 .details,
 .sign-up {
   display: flex;
@@ -38,7 +39,7 @@
 }
 
 .cardtwo {
-  background-image: url('/images/img-2.jpg');
+  background-image: url('/images/img-7.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -47,7 +48,7 @@
 }
 
 .cardthree {
-  background-image: url('/images/img-5.jpg');
+  background-image: url('/images/img-4.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -55,6 +56,14 @@
   font-size: 100px;
 }
 
+.cardfour {
+  background-image: url('/images/JSR67384.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
 .details {
   background-image: url('/images/img-1.jpg');
   background-position: center;

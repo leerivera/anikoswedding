@@ -49,7 +49,7 @@ function Cards() {
                       src='images/JSR67384.jpg'
             
                         // label='Luxury'
-                      path='/services'
+                      path='/cardfour'
                     />
 
                   <CardItem
