@@ -6,7 +6,9 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Cardone from './components/pages/Cardone';
 import Cardtwo from './components/pages/Cardtwo';
 import Cardthree from './components/pages/Cardthree';
-import Cardfour from './components/pages/Cardfour.js'
+import Cardfour from './components/pages/Cardfour';
+import Cardfive from './components/pages/Cardfive';
+
 import Details from './components/pages/Details';
 import SignUp from './components/pages/SignUp';
 import Cards from './components/pages/Cards'
@@ -22,6 +24,8 @@ function App() {
           <Route path='/cardtwo' component={Cardtwo} />
           <Route path='/cardthree' component={Cardthree}/>
           <Route path='/cardfour' component={Cardfour}/>
+          <Route path='/cardfive' component={Cardfive}/>
+         
           <Route path='/details' component={Details} />
           <Route path='/cards' component={Cards} />
         </Switch>

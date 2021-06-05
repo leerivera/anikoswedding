@@ -56,7 +56,7 @@ function Cards() {
                       src='images/img-11.jpg'
               
                         // label='Luxury'
-                      path='/services'
+                      path='/cardfive'
                     />
 
                   <CardItem

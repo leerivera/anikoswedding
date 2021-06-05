@@ -10,6 +10,7 @@
 .cardtwo,
 .cardthree,
 .cardfour,
+.cardfive,
 .details,
 .sign-up {
   display: flex;
@@ -58,6 +59,15 @@
 
 .cardfour {
   background-image: url('/images/JSR67384.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.cardfive {
+  background-image: url('/images/img-11.jpg');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
