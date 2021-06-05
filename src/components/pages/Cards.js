@@ -18,20 +18,20 @@ function Cards() {
                       path='/cardone'
                    />
                   <CardItem
-                      src='images/img-2.jpg'
+                      src='images/img-7.jpg'
               
                         // label='Luxury'
                       path='/cardtwo'
                     />
 
                   <CardItem
-                      src='images/img-5.jpg'
+                      src='images/img-4.jpg'
               
                         // label='Luxury'
-                      path='/services'
+                      path='/cardthree'
                     />
 
-                  <CardItem
+                  {/* <CardItem
                       src='images/img-7.jpg'
               
                         // label='Luxury'
@@ -43,11 +43,11 @@ function Cards() {
               
                         // label='Luxury'
                       path='/services'
-                    />
+                    /> */}
 
                   <CardItem
-                      src='images/img-2.jpg'
-              
+                      src='images/JSR67384.jpg'
+            
                         // label='Luxury'
                       path='/services'
                     />

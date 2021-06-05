@@ -5,7 +5,7 @@ import Home from './components/pages/Home';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Cardone from './components/pages/Cardone';
 import Cardtwo from './components/pages/Cardtwo';
-import Cardthree from "components/pages/Cardthree"
+import Cardthree from './components/pages/Cardthree';
 import Details from './components/pages/Details';
 import SignUp from './components/pages/SignUp';
 import Cards from './components/pages/Cards'
