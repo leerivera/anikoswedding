@@ -11,7 +11,7 @@ export default function Details() {
    <br/>
     <p> Click <a href="https://nikos082021.surveysparrow.com/s/Akosua-and-Nicholas-Wedding-RSVP/tt-7aa0a2">HERE</a> to RSVP.</p>
     <br/>
-    <br/>
+    
   <h2>CEREMONY AND RECEPTION</h2>
     <br/>
     <br/>

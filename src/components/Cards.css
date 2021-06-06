@@ -5,9 +5,11 @@
 
 h1 {
   text-align: center;
+  text-shadow: 2px 1px black;
 }
 p {
   text-align: center;
+  text-shadow: 2px 1px white;
 }
 li {
   text-align: center;
