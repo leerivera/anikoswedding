@@ -4,10 +4,10 @@ import '../../App.css';
 export default function Details() {
   return (<>
   <div className='rsvp'>
-   <h1>DETAILS</h1>
+  
    <h2>RSVP</h2>
     <br/>
-  <p>We kindly request that you RSVP by 5 July 2021.</p>
+  <p>We kindly request that you RSVP by Monday, July 5, 2021.</p>
    <br/>
     <p> Click <a href="https://nikos082021.surveysparrow.com/s/Akosua-and-Nicholas-Wedding-RSVP/tt-7aa0a2">HERE</a> to RSVP.</p>
     <br/>
@@ -15,17 +15,31 @@ export default function Details() {
   <h2>CEREMONY AND RECEPTION</h2>
     <br/>
     <br/>
-  <p>The ceremony and reception will take place on Saturday, August 21, </p>
+  <p>The ceremony and reception will take place on Saturday, August 21, 2021 </p>
     <br/>
-  <p>2021 at the following address:</p>
+  {/* <p> at the following address:</p>
   <p>11507 Valley View Dr</p>
-  <p>Bristow, VA 20136</p>
+  <p>Bristow, VA 20136 </p>
+    <br/>
     <br/>
   <p>The order of events is as follows:</p>
     <br/>
+    <br/> */}
+     <p> at the following address:</p>
+  <p>11507 Valley View Dr</p>
+  <p>Bristow, VA 20136 </p>
+  
+  
     <br/>
+    <br/>
+     
+     
+
+    
   <ul>
+
     <br/>
+    <li>The order of events is as follows:</li>
 
     <li>5:30 PM	Ceremony</li>
     <li>6:00 PM	Cocktail Hour</li>

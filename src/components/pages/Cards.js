@@ -8,7 +8,7 @@ function Cards() {
         <div className="cards">
           <div className="cards__container">
               <div className="cards__wrapper">
-              <h1>Gallery</h1>
+              {/* <h1>Gallery</h1> */}
                   <ul className="card__items">
                   <CardItem
                       src='images/img-9.jpg'
@@ -61,7 +61,7 @@ function Cards() {
 
                   <CardItem
                       src='images/img-12.jpg'
-                      text="Akosua and Nicholas, August 21, 2021 Bristol Manor Golf Club"
+                      text="Akosua and Nicholas, August 21, 2021 Bristow Manor Golf Club"
               
                         // label='Luxury'
                       path='/cardsix'
